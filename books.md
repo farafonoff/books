@@ -30,3 +30,13 @@ vibe: ["dark", "witty", "surreal"]
 difficulty: "medium"
 notes: "Дьявол в советской Москве. Двойная структура: Москва 1930-х и история Понтия Пилата."
 ---
+
+---
+title: "The Glass Bead Game"
+author: "Hermann Hesse"
+status: "done"
+tags: ["literary-fiction", "philosophical", "classic"]
+vibe: ["intellectual", "contemplative", "utopian"]
+difficulty: "hard"
+notes: "Элитарная интеллектуальная провинция Касталия, где лучшие умы играют в абстрактную игру, объединяющую все науки и искусства. Метафора на замкнутый мир интеллектуалов — и его пределы."
+---
