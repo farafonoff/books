@@ -1,11 +1,21 @@
 ---
 title: "Записки у изголовья"
 author: "Сэй-Сёнагон"
-status: "reading"
+status: "done"
 tags: ["classic", "japanese", "memoir", "essays"]
 vibe: ["contemplative", "intimate", "witty"]
 difficulty: "easy"
-notes: "Закладка, будущий выпуск. Дневниковые заметки придворной дамы эпохи Хэйан, X–XI вв."
+notes: "Закладка, выпуск 23. Дневниковые заметки придворной дамы эпохи Хэйан, X–XI вв."
+---
+
+---
+title: "Чемодан"
+author: "Сергей Довлатов"
+status: "done"
+tags: ["literary-fiction", "russian", "memoir", "humour"]
+vibe: ["witty", "melancholic", "intimate"]
+difficulty: "easy"
+notes: "Закладка, выпуск 24. Цикл рассказов об эмигрантской жизни — каждая вещь из чемодана становится поводом для истории из советского прошлого."
 ---
 
 ---
