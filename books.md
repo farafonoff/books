@@ -10,6 +10,16 @@ bad: "Бросил: показался многословным, слегка н
 ---
 
 ---
+title: "История моей жизни (мемуары)"
+author: "Джакомо Казанова"
+status: "want-to-read"
+tags: ["memoir", "classic", "history", "italian"]
+vibe: ["adventurous", "witty", "candid"]
+difficulty: "medium"
+notes: "Мемуары Казановы — авантюрная автобиография Европы XVIII века."
+---
+
+---
 title: "Нетопырь"
 author: "Ю Несбё"
 status: "done"
@@ -54,11 +64,12 @@ notes: "Следующая домашка из «Закладки». Психо�
 ---
 title: "Красношейка"
 author: "Ю Несбё"
-status: "reading"
+status: "done"
 tags: ["detective", "thriller", "norwegian", "harry-hole"]
 vibe: ["dark", "atmospheric"]
 difficulty: "medium"
-notes: "Серия Харри Холе, книга 3. Параллельный сюжет: норвежцы на Восточном фронте и современное расследование. Здесь серия набирает силу. Дочитаю и тогда решу, продолжать ли серию."
+notes: "Серия Харри Холе, книга 3. Параллельный сюжет: норвежцы на Восточном фронте и современное расследование. Здесь серия набирает силу."
+bad: "Серия кажется слишком шаблонной и повторяемой, надоела — ставлю на паузу после этой книги."
 ---
 
 ---
@@ -175,6 +186,13 @@ status: "done"
 title: "Roadside Picnic"
 author: "Arkady Strugatsky"
 status: "done"
+---
+
+---
+title: "Лисьи броды"
+author: "Анна Старобинец"
+status: "want-to-read"
+tags: ["literary-fiction", "russian", "contemporary"]
 ---
 
 ---

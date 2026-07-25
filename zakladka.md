@@ -1,4 +1,14 @@
 ---
+title: "Мэнсфилд-парк"
+author: "Джейн Остин"
+status: "want-to-read"
+tags: ["literary-fiction", "classic", "british"]
+vibe: ["contemplative", "witty"]
+difficulty: "medium"
+notes: "Закладка. Следующая домашка."
+---
+
+---
 title: "Записки у изголовья"
 author: "Сэй-Сёнагон"
 status: "done"
