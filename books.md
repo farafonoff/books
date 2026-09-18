@@ -124,6 +124,32 @@ bad: "Broken narrative part, more fantasy than scifi"
 ---
 
 ---
+title: "Ложная слепота"
+author: "Питер Уоттс"
+series: "Огнепад #1"
+status: "done"
+tags: ["sci-fi", "hard-sci-fi", "first-contact"]
+vibe: ["dark", "intellectual", "cosmic"]
+difficulty: "hard"
+notes: "Blindsight. Первый контакт. ИИ корабля «Тесей» (Ship) — стратегический разум миссии без привычного самосознания. Главная идея: разум и интеллект — разные вещи; сознание для такого ИИ — дорогой и медленный баг эволюции. Сложный интеллект (Ship, инопланетная Rorschach) может работать без квалиа."
+good: "Концепция любопытная"
+bad: "Текст плохо читается"
+---
+
+---
+title: "Эхопраксия"
+author: "Питер Уоттс"
+series: "Огнепад #2"
+status: "done"
+tags: ["sci-fi", "hard-sci-fi"]
+vibe: ["dark", "intellectual"]
+difficulty: "hard"
+notes: "Echopraxia, продолжение «Огнепада». Распределённый вычислительный разум и биоэлектронные сети: ИИ «Повелитель мух» (Beelzebub) и «Коронный разряд» (Corona). Та же линия: интеллект без субъективного сознания."
+good: "Концепция любопытная"
+bad: "Текст плохо читается"
+---
+
+---
 title: "The Name of the Rose"
 author: "Umberto Eco"
 status: "done"

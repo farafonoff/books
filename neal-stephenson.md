@@ -1,4 +1,14 @@
 ---
+title: "Snow Crash"
+author: "Neal Stephenson"
+status: "want-to-read"
+tags: ["sci-fi", "cyberpunk"]
+vibe: ["satirical", "adventurous", "intellectual"]
+difficulty: "medium"
+notes: "Лавина. Киберпанк, метавселенная."
+---
+
+---
 title: "Seveneves"
 author: "Neal Stephenson"
 status: "done"
