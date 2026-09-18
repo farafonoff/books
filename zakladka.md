@@ -1,11 +1,32 @@
 ---
+title: "Captain Blood"
+author: "Rafael Sabatini"
+status: "done"
+tags: ["historical-fiction", "adventure", "classic"]
+vibe: ["swashbuckling", "romantic"]
+difficulty: "medium"
+notes: "Не понравился. Плохо состарился: сюжетные ходы, персонажи и всё такое уже устаревшие штампы. Пираты Карибского моря — хорошая деконструкция этого устаревшего жанра."
+bad: "Герой-марти-сью; устаревшие штампы приключенческого жанра"
+---
+
+---
+title: "Герой нашего времени"
+author: "Михаил Лермонтов"
+status: "done"
+tags: ["literary-fiction", "russian", "classic"]
+vibe: ["melancholic", "atmospheric", "psychological"]
+difficulty: "medium"
+notes: "Психологический роман, Печорин, Кавказ. У Печорина, кажется, вся тёмная триада. Книга пропитана имперским шовинизмом и ксенофобией."
+---
+
+---
 title: "Мэнсфилд-парк"
 author: "Джейн Остин"
-status: "want-to-read"
+status: "done"
 tags: ["literary-fiction", "classic", "british"]
 vibe: ["contemplative", "witty"]
 difficulty: "medium"
-notes: "Закладка. Следующая домашка."
+notes: "Прочитано с трудом."
 ---
 
 ---

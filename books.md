@@ -20,6 +20,14 @@ notes: "Мемуары Казановы — авантюрная автобио�
 ---
 
 ---
+title: "Регистрация"
+author: "Дмитрий Глуховский"
+status: "want-to-read"
+tags: ["russian", "contemporary"]
+notes: "Новый роман Глуховского."
+---
+
+---
 title: "Нетопырь"
 author: "Ю Несбё"
 status: "done"
@@ -49,16 +57,6 @@ tags: ["memoir", "nature", "travel", "british", "humour"]
 vibe: ["warm", "witty", "atmospheric"]
 difficulty: "easy"
 notes: "Домашка из «Закладки»: трилогия о Корфу («Моя семья и другие звери», «Птицы, звери и родственники», «Сад богов»). Перечитал 2-ю и 3-ю книги."
----
-
----
-title: "Герой нашего времени"
-author: "Михаил Лермонтов"
-status: "reading"
-tags: ["literary-fiction", "russian", "classic"]
-vibe: ["melancholic", "atmospheric", "psychological"]
-difficulty: "medium"
-notes: "Следующая домашка из «Закладки». Психологический роман, Печорин, Кавказ. У Печорина, кажется, вся тёмная триада. Книга пропитана имперским шовинизмом и ксенофобией."
 ---
 
 ---
@@ -191,8 +189,9 @@ status: "done"
 ---
 title: "Лисьи броды"
 author: "Анна Старобинец"
-status: "want-to-read"
+status: "reading"
 tags: ["literary-fiction", "russian", "contemporary"]
+notes: "Прочитано примерно на 50%."
 ---
 
 ---
