@@ -265,9 +265,9 @@ status: "done"
 ---
 title: "Лисьи броды"
 author: "Анна Старобинец"
-status: "reading"
+status: "done"
 tags: ["literary-fiction", "russian", "contemporary"]
-notes: "Прочитано примерно на 50%."
+notes: "Сеттинг интересный, текст очень медленно разгонялся, концовка логичная и интересная."
 ---
 
 ---
