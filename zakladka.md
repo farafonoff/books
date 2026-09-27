@@ -1,5 +1,5 @@
 ---
-title: "Captain Blood"
+title: "Одиссея капитана Блада"
 author: "Rafael Sabatini"
 status: "done"
 tags: ["historical-fiction", "adventure", "classic"]
@@ -56,7 +56,7 @@ status: "reading"
 tags: ["literary-fiction", "russian", "classic", "novella"]
 vibe: ["melancholic", "introspective", "psychological"]
 difficulty: "medium"
-notes: "Закладка, выпуск 25. Исповедь пожилого профессора медицины. Будет прочитано к следующему месяцу."
+notes: "Закладка, следующий выпуск. Исповедь пожилого профессора медицины. Будет прочитано к следующему месяцу."
 ---
 
 ---
