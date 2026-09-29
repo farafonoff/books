@@ -1,7 +1,7 @@
 ---
 title: "Преступления прошлого"
 author: "Кейт Аткинсон"
-status: "reading"
+status: "want-to-read"
 tags: ["detective", "psychological", "british", "literary-fiction"]
 vibe: ["dark", "introspective", "witty", "atmospheric"]
 difficulty: "medium"
@@ -33,7 +33,7 @@ notes: "Мемуары Казановы — авантюрная автобио�
 ---
 title: "Регистрация"
 author: "Дмитрий Глуховский"
-status: "want-to-read"
+status: "reading"
 tags: ["russian", "contemporary"]
 notes: "Новый роман Глуховского."
 ---
